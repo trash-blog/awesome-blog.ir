@@ -23,5 +23,6 @@
 | آسمانم         | asemanam.blog.ir      | غیرفعال |
 | قالب بلاگ بیان | erfanwd.blog.ir       | غیرفعال |
 | سجاد وب دیزاین | sajadwd.blog.ir       | فعال    |
+ | تمز | themez.blog.ir       | غیرفعال |
 
 </div>
