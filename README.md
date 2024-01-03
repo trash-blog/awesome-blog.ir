@@ -26,3 +26,26 @@
 | 𝓯𝓪𝓻𝓱𝓪𝓷'𝓼 𝓽𝓱𝓮𝓶𝓮    | farhanez.blog.ir      | غیرفعال |
 | magic spirit     | magic-spirit.blog.ir | فعال    |
 </div>
+
+
+## ابزارها
+
+### زباله‌دان
+- [مترجم قالب بلاگفا به بیان](http://trash.blog.ir/post/مترجم-قالب-بلاگفا-به-بیان)
+- 
+
+### علیرضا  
+- [ابزار Backup از پست های بلاگ بیان](https://web.archive.org/web/https://alirezaahani.blog.ir/post/45/Backup)
+
+### آسمانم  
+- [تولید کننده کد فونت](https://asemanam-blog.github.io/Toolbox/font-generator/)
+- [تولید کننده تگ ویدیو](https://asemanam-blog.github.io/Toolbox/video-tag-generator/)
+- [تولید کننده پست‌های آسمانی](https://asemanam-blog.github.io/Toolbox/asemany-generator/)
+- [تولید کننده تگ آدیو / صوتی](https://asemanam-blog.github.io/Toolbox/audio-tag-generator/)
+- [جعبه ابزار لیکدونی و گالری](https://asemanam-blog.github.io/Toolbox/linkdooni/)
+- [مبدل فایل xml پشتیبان وبلاگ](https://asemanam-blog.github.io/Toolbox/backuper/)
+- [موتور جستجوی وبلاگستان](https://asemanam-blog.github.io/Toolbox/search-engine/)
+- [تولید کننده برنامه هفتگی](https://asemanam-blog.github.io/Toolbox/week-scheduler/)
+
+### من کدنویس هستم
+- [ابزار ریبلاگ برای وبلاگ](https://iamcoder.blog.ir/post/reblog-tools-for-blog)
