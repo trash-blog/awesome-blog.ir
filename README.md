@@ -1,6 +1,6 @@
 <div align="center">
 
-# Awesome ‌Blog.ir
+#  &rlm; Awesome ‌Blog.ir
 لیستی از قالب‌ها، ابزار‌ها و سایر لینک‌های مفید برای وبلاگ‌نویسان بیان
 
 </div>
@@ -86,7 +86,7 @@
 - [افزونه ابزار بیان ✨✨ Bayan Tools ✨✨](https://bayan-tools.blog.ir/)
 - [ افزونه تغییر فونت مرکز مدیریت بلاگ بیان](https://donyait.blog.ir/post/1295)
 
-### vscode
+### &rlm; vscode
 [افزونهٔ بلاگ بیان برای vscode](https://trash.blog.ir/post/blog-extention-vscode)
 
 
@@ -124,4 +124,4 @@
 - [آموزش تغییر دادن موافق و مخالف به دکمه لایک :)](https://mimsadalef.blog.ir/post/43/)
 
 ### پرو وب پلاس
-TODO
+ &rlm; TODO
