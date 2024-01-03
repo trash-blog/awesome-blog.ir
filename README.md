@@ -69,3 +69,59 @@
 
 ### پرو وب پلاس
 - [ابزار پشتیبان گیر پست های بیان بلاگ به همراه اطلاعات و مشخصات وبلاگ](https://prowebplus.blog.ir/post/bayan-blog-post-archives-to-file-converter-with-blog-information)
+
+
+### قالب‌های عرفان
+- [ابزار ساخت لینک دلخواه شما](http://erfanwd.blog.ir/1395/05/03/create-follow-link)
+- [هدر ساز آنلاین](http://erfanwd.blog.ir/1395/05/04/header-creator-online)
+- [قالب ساز آنلاین نسخه ۱.۰](http://erfanwd.blog.ir/1395/05/07/Template-maker-online-bayan)
+- [شخصی سازی پیوندهای وبلاگ](http://erfanwd.blog.ir/1395/05/10/abzar-shakhsi-sazi-link-ha)- 
+
+
+
+## افزونه‌ها
+
+### مرورگر
+- [افزونهٔ بلاگ بیان برای مرورگر](trash.blog.ir/post/extention)
+- [افزونه ابزار بیان ✨✨ Bayan Tools ✨✨](https://bayan-tools.blog.ir/)
+- [ افزونه تغییر فونت مرکز مدیریت بلاگ بیان](https://donyait.blog.ir/post/1295)
+
+### vscode
+[افزونهٔ بلاگ بیان برای vscode](https://trash.blog.ir/post/blog-extention-vscode)
+
+
+
+## آموزش‌ها
+
+
+### نقل‌بلاگ
+- [تغییر رنگ نوار مرورگر موبایل](https://naghl.blog.ir/post/browser_tabcolor)
+- [بهم‌ریختن حروف فارسی در فایل‌های آپلودشده](https://naghl.blog.ir/post/ajaghvajagh)
+- [حل مشکل حروف فارسی در  تکست](https://naghl.blog.ir/post/utf8bom)
+- [درج لینک بلاگ در بلاگفا](https://naghl.blog.ir/post/blog_in_blogfa)
+- [لینک کوتاه مطلب](https://naghl.blog.ir/post/short_url)
+- [افزودن دکمه دنبال کردن به منو](https://naghl.blog.ir/post/follow_link)
+- [تصویر پروفایل نظردهندگان](https://naghl.blog.ir/post/comment_avatar)
+- [ساده‌ترین روش استفاده از نشانه‌ها](https://naghl.blog.ir/post/flaglink)
+- [بهترشدن شکل پنل مدیریت بیان](https://naghl.blog.ir/post/panelediting)
+- [حل مشکل حروف فارسی در  تکست](https://naghl.blog.ir/post/utf8bom)
+- [استفاده از نشانه برای مطالب](https://naghl.blog.ir/post/flag_for_posts)
+  
+
+### قالب‌های عرفان
+- [فیلم های آموزشی](http://erfanwd.blog.ir/1395/02/07/training-video)
+- [آموزش قرار دادن قالب ها روی وبلاگ](http://erfanwd.blog.ir/page/training)
+- [آموزش قرار دادن قالب ها روی وبلاگ در اندروید](http://erfanwd.blog.ir/page/training-android)
+- [آموزش تغییر تصویر پس زمینه و هدر قالب](http://erfanwd.blog.ir/1394/11/02/training-change-header-and-background)
+- [آموزش استفاده از فونت های آنلاین](http://erfanwd.blog.ir/1395/03/02/amozesh-estefade-az-font-online)
+- [آموزش تصویری تغییر رنگ قسمت های مختلف قالب](http://erfanwd.blog.ir/1395/01/20/training-change-color)
+- [آموزش قرار دادن موزیک روی وبلاگ](http://erfanwd.blog.ir/1395/02/02/amozesh-gharar-dadane-music-roye-weblog)
+- [آموزش تغییر فونت قالب](http://erfanwd.blog.ir/1394/10/30/font-family)
+- [مخفی کردن تصاویر دنبال کنندگان در جعبه دنبال کنندگان](http://erfanwd.blog.ir/1395/02/12/hazf-tasavir-donbal-konandegan-az-jabe-donbal-konandegan)
+- [قرار دادن متن روی قالب هنگام غیر فعال کردن وبلاگ](http://erfanwd.blog.ir/1395/05/13/darjmatn)
+
+### میم صاد الف
+- [آموزش تغییر دادن موافق و مخالف به دکمه لایک :)](https://mimsadalef.blog.ir/post/43/)
+
+### پرو وب پلاس
+TODO
