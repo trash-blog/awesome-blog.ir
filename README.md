@@ -32,11 +32,12 @@
 
 ### زباله‌دان
 - [مترجم قالب بلاگفا به بیان](http://trash.blog.ir/post/مترجم-قالب-بلاگفا-به-بیان)
+- [تغییر فونت وبلاگ](https://cfont.netlify.app/)
 
 
 ### علیرضا
 - [ابزار Backup از پست های بلاگ بیان](https://web.archive.org/web/https://alirezaahani.blog.ir/post/45/Backup)
-- 
+
 
 ### آسمانم
 - [ابزار پلیر یا پخش کننده موزیک - نسخه ۱](https://asemanam.blog.ir/1402/04/19/asemany-music-player)
