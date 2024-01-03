@@ -1,4 +1,12 @@
-# Awesome ‌Blog.ir [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+
+# Awesome ‌Blog.ir
+لیستی از قالب‌ها، ابزار‌ها و سایر لینک‌های مفید برای وبلاگ‌نویسان بیان
+
+</div>
+
+<div dir="rtl">
+
 
 ## ارائه دهندگان قالب
 
