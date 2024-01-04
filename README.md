@@ -47,7 +47,7 @@
 ### علیرضا
 - [ابزار Backup از پست های بلاگ بیان](https://web.archive.org/web/https://alirezaahani.blog.ir/post/45/Backup)
 
-### crazy friends
+### &rlm; crazy friends
 - [پخش اتوماتیک آهنگ در وبلاگ 🍆](https://crazyfriends.blog.ir/1399/11/26/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%BE%D8%AE%D8%B4-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A2%D9%87%D9%86%DA%AF-%D8%AF%D8%B1-%D9%88%D8%A8%D9%84%D8%A7%DA%AF)
 
 
