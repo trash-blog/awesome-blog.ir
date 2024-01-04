@@ -20,6 +20,7 @@
 | تمز            | themez.blog.ir          | غیرفعال |
 | چرتک بلاگ       | chortak.blog.ir         | غیرفعال |
 | دانی تم        | danitm.blog.ir          | غیرفعال |
+| ذهن زیبا زندگی زیبا | skylove.ir         | غیرفعال |
 | سجاد وب دیزاین | sajadwd.blog.ir         | فعال    |
 | عقاید یک رامین | iamramin.blog.ir/post/966 | فعال  |
 | علیرضا         | alirezaahani.blog.ir    | غیرفعال |
@@ -79,9 +80,20 @@
 - [ابزار ساخت لینک دلخواه شما](http://erfanwd.blog.ir/1395/05/03/create-follow-link)
 - [هدر ساز آنلاین](http://erfanwd.blog.ir/1395/05/04/header-creator-online)
 - [قالب ساز آنلاین نسخه ۱.۰](http://erfanwd.blog.ir/1395/05/07/Template-maker-online-bayan)
-- [شخصی سازی پیوندهای وبلاگ](http://erfanwd.blog.ir/1395/05/10/abzar-shakhsi-sazi-link-ha)- 
+- [شخصی سازی پیوندهای وبلاگ](http://erfanwd.blog.ir/1395/05/10/abzar-shakhsi-sazi-link-ha)
 
-
+# پلاک ۷
+- [ابزار ساخت قالب پروفایل کاربری](https://pelake7.blog.ir/post/Format-Profile1)
+- [ابزار ساخت پروفایل کاربری](https://pelake7.blog.ir/post/profile1)
+- [ابزار ساخت لوگویِ نوار آدرس](https://pelake7.blog.ir/post/ابزار-لوگو)
+- [ابزار سوال و جواب..](https://pelake7.blog.ir/post/ابزار-سوال-و-جواب)
+- [ابزار ساخت موزیک پلیر](https://pelake7.blog.ir/post/ابزار-ساخت-موزیک-پلیر)
+- [استفاده از شکلک‎ها در وبلاگ‎های بیان](https://pelake7.blog.ir/post/استفاده-از-شکلک‎ها-در-وبلاگ‎های-بیان)
+- [ابزار ساخت موزیک پلیر](https://pelake7.blog.ir/post/ابزار-ساخت-موزیک-پلیر)
+- [ابزار ساخت لوگویِ نوار آدرس](https://pelake7.blog.ir/post/ابزار-لوگو)
+- [ابزار ساخت بک‎گراند وبلاگ](https://pelake7.blog.ir/page/ساخت-بک-گراند)
+- [ابزار ساخت پروفایل](https://pelake7.blog.ir/post/profile1)
+- [ابزار ساخت قالب پروفایل](https://pelake7.blog.ir/post/Format-Profile1)
 
 ## افزونه‌ها
 
@@ -182,3 +194,9 @@
 - [کد نوار مشکی تسلیت برای وبلاگ](https://aitac.blog.ir/post/کد-نوار-مشکی-تسلیت-برای-وبلاگ)
 - [فونت کل وبلاگت رو عوض کن !](https://aitac.blog.ir/post/فونت-کل-وبلاگت-رو-عوض-کن)
 - [کد بالابر سایت بدون جاوا اسکریپت](https://aitac.blog.ir/post/کد-بالابر-سایت-بدون-جاوا-اسکریپت)
+
+### پلاک ۷
+- [دکمه پیام مدیر وبلاگ به کاربران](https://pelake7.blog.ir/post/msg-box)
+- [گرد کردن آواتار در کامنت‎ها](https://pelake7.blog.ir/post/آواتار)
+- [فیلترینگ هوشمند](https://pelake7.blog.ir/post/فیلترینگ-هوشمند)
+- [باکس ای دی شما در شبکه های اجتماعی](https://pelake7.blog.ir/post/باکس-ایدی-شبکه-اجتماعی)
