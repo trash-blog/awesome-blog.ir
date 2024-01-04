@@ -153,6 +153,12 @@
 - [نکات مهم درباره گرفتن نویسنده دربیان](https://prowebplus.blog.ir/post/adding-author-bayan-blog)
 - [آموزش انتشار دوباره پست در وبلاگ های بروز شده و قسمت وبلاگ های دنبال شده - بیان بلاگ](https://prowebplus.blog.ir/post/resending-post-in-updated-weblogs-bayanblog)
 
+
+### &rlm; Dark Army Team
+- [چگونه ناشناس ها را خفه کنیم؟](https://saibot.blog.ir/post/چگونه-ناشناس-ها-را-خفه-کنیم)
+- [ترفند ساده برای شناسایی ناشناس ها](https://saibot.blog.ir/post/ترفند-ساده-برای-شناسایی-ناشناس-ها)
+  
+
 - ## کدها
 ### &rlm; crazy friends
 - [شما هم یاد بگیرید (این قسمت پخش خودکار موزیک)](https://crazyfriends.blog.ir/1395/12/19/crazy-friends-blog-it-education)
@@ -170,10 +176,7 @@
 
 ### مستر سایفر 82
 - [درج برنگار در وبلاگ](https://mr-cipher82.blog.ir/1399/1/5-1)
-
-### &rlm; Dark Army Team
-- [چگونه ناشناس ها را خفه کنیم؟](https://saibot.blog.ir/post/چگونه-ناشناس-ها-را-خفه-کنیم)
-- [ترفند ساده برای شناسایی ناشناس ها](https://saibot.blog.ir/post/ترفند-ساده-برای-شناسایی-ناشناس-ها)
+- 
 
 ### آیــتــک
 - [کد نوار مشکی تسلیت برای وبلاگ](https://aitac.blog.ir/post/کد-نوار-مشکی-تسلیت-برای-وبلاگ)
