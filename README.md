@@ -134,7 +134,6 @@
 - [تصویر پروفایل نظردهندگان](https://naghl.blog.ir/post/comment_avatar)
 - [ساده‌ترین روش استفاده از نشانه‌ها](https://naghl.blog.ir/post/flaglink)
 - [بهترشدن شکل پنل مدیریت بیان](https://naghl.blog.ir/post/panelediting)
-- [حل مشکل حروف فارسی در  تکست](https://naghl.blog.ir/post/utf8bom)
 - [استفاده از نشانه برای مطالب](https://naghl.blog.ir/post/flag_for_posts)
   
 
