@@ -23,7 +23,7 @@
 | ذهن زیبا زندگی زیبا | skylove.ir         | غیرفعال |
 | سجاد وب دیزاین | sajadwd.blog.ir         | فعال    |
 | عقاید یک رامین | iamramin.blog.ir/post/966 | فعال  |
-| علیرضا         | alirezaahani.blog.ir    | حذف شده |
+|عرشیاتم         |arshiatheme.blog.ir      | غیرفعال |
 | غنچه و چراغ    | budandlight.blog.ir     | غیرفعال |
 | قالب بلاگ بیان  | erfanwd.blog.ir         | غیرفعال |
 | میم ح پ        | mhp2011.blog.ir         | غیرفعال |
